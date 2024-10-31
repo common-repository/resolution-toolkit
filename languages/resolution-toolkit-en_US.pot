@@ -1,0 +1,99 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ad Mag- lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-18 16:27+0700\n"
+"PO-Revision-Date: 2015-07-22 20:53-0700\n"
+"Last-Translator: admin <kiem.dinh@kopasoft.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/widgets/social/widget-flickr.php:10
+msgid "Display images from Flickr"
+msgstr ""
+
+#: inc/widgets/social/widget-flickr.php:12
+msgid "(Resolution) Flickr"
+msgstr ""
+
+#: inc/widgets/social/widget-flickr.php:46
+msgid "Flickr"
+msgstr ""
+
+#: inc/widgets/social/widget-flickr.php:55
+#: inc/widgets/social/widget-twitter.php:136
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/social/widget-flickr.php:60
+msgid "ID:"
+msgstr ""
+
+#: inc/widgets/social/widget-flickr.php:65
+msgid "Number of images"
+msgstr ""
+
+#: inc/widgets/social/widget-twitter.php:10
+msgid "Show latest tweet"
+msgstr ""
+
+#: inc/widgets/social/widget-twitter.php:12
+msgid "(Resolution) Tweet"
+msgstr ""
+
+#: inc/widgets/social/widget-twitter.php:50
+msgid "Sorry, there was a problem when load."
+msgstr ""
+
+#: inc/widgets/social/widget-twitter.php:142
+msgid "Username:"
+msgstr ""
+
+#: inc/widgets/social/widget-twitter.php:147
+msgid "Number of tweets"
+msgstr ""
+
+#: inc/widgets/social/widget-twitter.php:153
+msgid "Consumer key"
+msgstr ""
+
+#: inc/widgets/social/widget-twitter.php:158
+msgid "Consumer secret"
+msgstr ""
+
+#: inc/widgets/social/widget-twitter.php:163
+msgid "Oauth access token"
+msgstr ""
+
+#: inc/widgets/social/widget-twitter.php:168
+msgid "Oauth access token secret"
+msgstr ""
+
+#: resolution-toolkit.php:35
+msgid "Facebook URL"
+msgstr ""
+
+#: resolution-toolkit.php:36
+msgid "Twitter URL"
+msgstr ""
+
+#: resolution-toolkit.php:37
+msgid "Linkedin URL"
+msgstr ""
+
+#: resolution-toolkit.php:38
+msgid "Google Plus URL"
+msgstr ""
